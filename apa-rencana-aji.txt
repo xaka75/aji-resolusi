@@ -5,3 +5,4 @@ Rencana Aji
 - Olahraga
   - Angkat beban
   - Lari
+  - Renang
