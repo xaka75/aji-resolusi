@@ -2,5 +2,5 @@ AJI RESOLUSI
 - Konsisten belajar programing
 - Belajar backend
 - Belajar frontend
-- Belajar Git
 - Belajar flutter
+- Belajar Ethical hacking
